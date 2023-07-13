@@ -1,0 +1,13 @@
+ @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Fauna+One&family=Poppins:wght@200;500&display=swap');
+*{
+  box-sizing:border-box
+}
+
+body{
+  margin:0;
+  padding:0;
+}
+.app{
+  margin:auto;
+  
+}
